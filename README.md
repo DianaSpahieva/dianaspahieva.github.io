@@ -40,5 +40,5 @@ SUmmary - **Python**.
 ![Sample image](/assets/img/sample.jpeg)
 
 ## Publications
-1. Spahieva D. Detection of anger direction using transfer learning classification models(2021). 
+1. Detection of anger direction using transfer learning classification models Spahieva, D. N. (Author). 2021
 [Bachelor Thesis](https://research.tue.nl/en/studentTheses/detection-of-anger-direction-using-transfer-learning-classificati/)
