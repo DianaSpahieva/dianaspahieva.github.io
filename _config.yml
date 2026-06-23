@@ -1,5 +1,5 @@
 title: Diana Spahieva
 logo: /assets/img/headshot.jpeg
-description: primer primer
+description: Technical Skills: Python, R, SQL, AWS, Keras, ETL, Docker, Pandas, Linux, CICD, Django, Selenium
 #show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal #cayman
