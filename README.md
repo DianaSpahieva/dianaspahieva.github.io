@@ -37,7 +37,7 @@ future improvements by the data lake management team.
 
 SUmmary - **Python**.
 
-![Sample image](/assets/img/sample.jpeg)
+![Sample image](/assets/img/headshot.jpeg)
 
 ## Publications
 1. Detection of anger direction using transfer learning classification models Spahieva, D. N. (Author). 2021
