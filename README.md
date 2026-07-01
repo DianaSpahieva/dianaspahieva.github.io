@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dianaspahieva.github.io/portfolio/"><b>🌍 Live Portfolio</b></a>
+  <a href="https://dianaspahieva.github.io/"><b>🌍 Live Portfolio</b></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/DianaSpahieva"><b>GitHub</b></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
