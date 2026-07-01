@@ -14,14 +14,14 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/DianaSpahieva"><b>GitHub</b></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/diana-nikolaeva"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/diana-spahieva"><b>LinkedIn</b></a>
 </p>
 
 ---
 
 # 👋 About
 
-Hi! I'm **YOUR NAME**, a Data Scientist and Data Engineer currently pursuing an MSc in **Data Science in Business and Entrepreneurship** at Eindhoven University of Technology and Tilburg University.
+Hi! I'm **Diana**, a Data Scientist and Data Engineer currently pursuing an MSc in **Data Science in Business and Entrepreneurship** at Eindhoven University of Technology and Tilburg University.
 
 I enjoy solving problems with data.
 
