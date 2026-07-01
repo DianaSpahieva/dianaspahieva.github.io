@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio – Data Science & Data Engineering
+# 🌐 Personal Portfolio – Data Science & Data Engineering UPDATE CONNECT UPDATE CONNECT END OF README
 
 <h1 align="center">Building intelligent data solutions that turn complex data into actionable insights.</h1>
 
@@ -228,7 +228,7 @@ A portfolio allows me to present more than a traditional CV. It showcases how I 
 
 ---
 
-# 📫 Connect
+# 📫 Connect  UPDATE THIS UPDATE THIS UPDATE THIS
 
 🌍 Portfolio: https://dianaspahieva.github.io/portfolio/
 
