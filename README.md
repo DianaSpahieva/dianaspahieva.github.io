@@ -14,16 +14,14 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/DianaSpahieva"><b>GitHub</b></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/diana-spahieva"><b>LinkedIn</b></a>
+  <a href="https://linkedin.com/in/diana-spahieva"><b>LinkedIn</b></a>
 </p>
 
 ---
 
 # 👋 About
 
-Hi! I'm **Diana**, a Data Scientist and Data Engineer currently pursuing an MSc in **Data Science in Business and Entrepreneurship** at Eindhoven University of Technology and Tilburg University.
-
-I enjoy solving problems with data.
+Hi! I'm **Diana**, a Data Scientist and Data Engineer and I enjoy solving problems with data.
 
 Whether it's building machine learning models, developing cloud-based data pipelines, or creating interactive dashboards, I enjoy transforming complex data into meaningful insights that support better decisions.
 
@@ -234,7 +232,7 @@ A portfolio allows me to present more than a traditional CV. It showcases how I 
 
 🌍 Portfolio: https://dianaspahieva.github.io/portfolio/
 
-💼 LinkedIn: https://www.linkedin.com/in/diana-nikolaeva
+💼 LinkedIn: https://linkedin.com/in/diana-spahieva
 
 💻 GitHub: https://github.com/DianaSpahieva/portfolio
 
