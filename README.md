@@ -1,44 +1,247 @@
-# Data Scientist / Engineer TESTING TESTING
+# 🌐 Personal Portfolio – Data Science & Data Engineering
 
-#### Technical Skills: Python, R, SQL, AWS, Keras, ETL, Docker, Pandas, Linux, CICD, Django, Selenium
+<h1 align="center">Building intelligent data solutions that turn complex data into actionable insights.</h1>
 
-## Education
-- M.S., Data Science in Business and Entrepreneurship	| Tilburg University, Eindhoven University of Technology (_June 2027_)   		
-- B.S., Data Science | Tilburg University, Eindhoven University of Technology (_June 2022_)
+<p align="center">
+  My personal portfolio showcasing my experience in <strong>Data Science</strong>,
+  <strong>Data Engineering</strong>, and <strong>Machine Learning</strong>.
+  Here you'll find my professional experience, technical projects, education,
+  and the technologies I'm passionate about.
+</p>
 
-## Work Experience
-**Data Science Consultant @ upwerk (_July 2022 - August 2025_)**
-- NOT MINE Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- NOT MINE Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-- Created data-driven dashboards using Django, PostgreSQL, and JavaScript, offering clients insightful visualizations and analytics
-tailored to their business needs.
-- Designed and implemented database schemas, optimized queries, and ensured the security of user data through best practices in
-database management and encryption.
-- MAYBE DELETE Collaborated with clients to gather requirements and provide solutions that were cost-effective and aligned with business goals,
-delivering projects on time.
-- EXPAND Finetuned English LLM for BG usage.
+<p align="center">
+  <a href="https://dianaspahieva.github.io/portfolio/"><b>🌍 Live Portfolio</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/DianaSpahieva"><b>GitHub</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/diana-nikolaeva"><b>LinkedIn</b></a>
+</p>
 
-**Data Engineer Intern @ NXP Semiconductors (_August 2023 - June 2024_)**
-- Designed a monitoring system in Splunk to detect data gaps in an R&D data lake.
-- Developed a Splunk dashboard to provide real-time monitoring and visibility into data streams and alert the responsible team
-when gaps or inconsistencies were detected.
-- Utilized AWS Glue jobs and Lambda functions for data orchestration, integrating on-premise databases with the serverless AWS
-architecture of the data lake.
-- Tested new features locally using Docker containers to validate functionality and dependencies before deploying to the AWS
-environment for further integration testing.
-- Enhanced the scalability and performance of the data lake by addressing potential bottlenecks and recommending process
-optimizations for long-term reliability.
-- Tracked development tasks using Jira and documented the end-to-end workﬂow in Conﬂuence to enable knowledge transfer and
-future improvements by the data lake management team.
+---
 
-## Projects - FILL IN
-### Project 1
-[Dataset](https://www.kaggle.com/)
+# 👋 About
 
-SUmmary - **Python**.
+Hi! I'm **YOUR NAME**, a Data Scientist and Data Engineer currently pursuing an MSc in **Data Science in Business and Entrepreneurship** at Eindhoven University of Technology and Tilburg University.
 
-![Sample image](/assets/img/INSERT_PIC.jpeg)
+I enjoy solving problems with data.
 
-## Publications
-1. Detection of anger direction using transfer learning classification models Spahieva, D. N. (Author). 2021
-[Bachelor Thesis](https://research.tue.nl/en/studentTheses/detection-of-anger-direction-using-transfer-learning-classificati/)
+Whether it's building machine learning models, developing cloud-based data pipelines, or creating interactive dashboards, I enjoy transforming complex data into meaningful insights that support better decisions.
+
+My interests lie at the intersection of:
+
+- 🤖 Machine Learning
+- ☁️ Data Engineering
+- 📊 Data Analytics
+- 🧠 Natural Language Processing
+- 🚀 Cloud Computing
+- 🔍 Explainable AI
+
+I'm particularly interested in applying data and AI to solve real-world problems with measurable business and societal impact.
+
+---
+
+# 🚀 What You'll Find
+
+This portfolio brings together my academic, professional, and personal work, including:
+
+- 💼 Professional experience
+- 📚 Education
+- 🚀 Featured projects
+- 🛠 Technical skills
+- 📄 Downloadable CV
+- 📬 Contact information
+
+Rather than being a static CV, this portfolio is continuously updated as I learn new technologies and complete new projects.
+
+---
+
+# 💻 Featured Projects
+
+## 📈 Identifying High-Potential Customers
+
+Developed an automated data collection pipeline using Python and Selenium to gather company insights from public sources. Built a Power BI dashboard and customer segmentation model to help prioritize sales opportunities.
+
+**Technologies**
+
+- Python
+- Selenium
+- NLP
+- Power BI
+
+---
+
+## 🌿 Biodiversity Insights Network
+
+Built an end-to-end NLP pipeline that extracts topics and stakeholder relationships from biodiversity documents using BERT topic modeling and Social Network Analysis.
+
+**Technologies**
+
+- Python
+- NLP
+- BERT
+- Power BI
+- Social Network Analysis
+
+---
+
+## 🏛 BHIC Data Visualization Tool
+
+Developed an interactive Django application for exploring historical genealogical datasets through a variety of visualizations including network graphs, treemaps, and population analytics.
+
+**Technologies**
+
+- Django
+- Python
+- JavaScript
+- Data Visualization
+
+---
+
+# 🛠 Tech Stack
+
+## Data Science
+
+- Python
+- R
+- SQL
+- Machine Learning
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
+- NLP
+- Power BI
+
+## Data Engineering
+
+- AWS
+- Google Cloud Platform
+- ETL Pipelines
+- Apache Spark
+- Docker
+- SQL
+- CI/CD
+
+## Software Development
+
+- Django
+- PostgreSQL
+- MongoDB
+- Git
+- Linux
+- JavaScript
+
+---
+
+# 📂 Repository Structure - TO BE UPDATED
+
+```text
+content/
+├── authors/
+├── experience/
+├── projects/
+├── publications/
+├── skills/
+└── cv/
+
+assets/
+layouts/
+static/
+```
+
+---
+
+# 🎯 Current Interests
+
+- Machine Learning
+- Large Language Models
+- Natural Language Processing
+- Cloud Computing
+- Data Engineering
+- Data Pipelines
+- Explainable AI
+- Data Visualization
+
+---
+
+# 📈 Current Focus
+
+I'm currently expanding my knowledge in:
+
+- Modern Data Engineering
+- Cloud-native architectures
+- Large Language Models
+- Machine Learning in production
+- Scalable ETL pipelines
+
+---
+
+# 🤝 Collaboration
+
+I'm always interested in discussing:
+
+- Data Science
+- Machine Learning
+- Data Engineering
+- AI
+- Cloud Technologies
+- Sustainability-focused projects
+
+Feel free to connect if you'd like to collaborate or simply talk about data and technology.
+
+---
+
+# ❓ Frequently Asked Questions
+
+<details>
+<summary><b>Is this portfolio still being updated?</b></summary>
+
+Yes! This portfolio evolves alongside my career. I regularly add new projects, improve existing pages, and update my experience and skills.
+
+</details>
+
+<details>
+<summary><b>Can I see the source code for your projects?</b></summary>
+
+Many projects link directly to their GitHub repositories. Some professional and freelance work cannot be shared publicly due to confidentiality.
+
+</details>
+
+<details>
+<summary><b>Are these projects academic or professional?</b></summary>
+
+The portfolio contains a combination of university projects, professional experience, and freelance work to showcase a broad range of practical experience.
+
+</details>
+
+<details>
+<summary><b>What roles are you interested in?</b></summary>
+
+I'm interested in opportunities within Data Science, Data Engineering, Machine Learning, and Analytics Engineering where I can build scalable, data-driven solutions with real-world impact.
+
+</details>
+
+<details>
+<summary><b>Why build a personal portfolio?</b></summary>
+
+A portfolio allows me to present more than a traditional CV. It showcases how I approach problems, the technologies I use, and the projects I've built throughout my academic and professional journey.
+
+</details>
+
+---
+
+# 📫 Connect
+
+🌍 Portfolio: https://dianaspahieva.github.io/portfolio/
+
+💼 LinkedIn: https://www.linkedin.com/in/diana-nikolaeva
+
+💻 GitHub: https://github.com/DianaSpahieva/portfolio
+
+📧 Email: diana.nikolaeva.spahieva@gmail.com
+
+---
+
+<p align="center">
+  Built with ❤️ and continuously improved as I learn and build new things.
+</p>

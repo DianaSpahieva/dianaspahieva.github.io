@@ -1,0 +1,132 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Diana Spahieva
+  given: Diana
+  family: Spahieva
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: she/her
+postnominals:
+  - PhD
+  - MIEEE
+status:
+  icon: "☕️"
+role: Data Scientist & Engineer
+bio: |
+  My main interests lie in the ﬁeld of Data Science with an emphasis on applied machine learning and software development,
+  as well as data engineering. I aspire to be involved in a company that aims to change the world for the better, especially in
+  terms of sustainability.
+
+affiliations:
+  - name: My projects
+    url: https://dianaspahieva.github.io/portfolio/projects/
+
+links:
+  - icon: at-symbol
+    url: mailto:diana.nikolaeva.spahieva@gmail.com
+    label: E-mail Me
+  #- icon: brands/x
+  #  url: https://x.com/example
+  - icon: brands/github
+    url: https://github.com/DianaSpahieva?tab=repositories
+  - icon: brands/linkedin
+    url: https://linkedin.com/in/diana-spahieva
+
+interests:
+  - Machine Learning
+  - Data Visualization
+  - Natural Language Processing (NLP)
+  - Cloud Computing
+  - Data Engineering & Data Pipelines
+  - Large Language Models
+  - Explainable AI & AI Ethics
+education:
+  #- degree: PhD Computer Science
+  #  institution: Stanford University
+  #  start: 2015-09-01
+  #  end: 2019-06-30
+  #  summary: |
+  #    Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+  #  button:
+  #    text: Download dissertation
+  #    url: /resume.pdf
+  #    icon: hero/arrow-down-tray
+  - degree: MS Data Science in Business and Entrepreneurship
+    institution: Tilburg University, Eindhoven University of Technology
+    start: 2022-09-01
+    end: 2024-06-30
+  - degree: BS Data Science
+    institution: Tilburg University, Eindhoven University of Technology
+    start: 2018-09-01
+    end: 2022-06-30
+
+
+
+experience:
+  - role: Data Science Consultant
+    org: upwerk
+    start: 2022-07-01
+    end: Present
+    summary: |
+      Leading
+      - Created data-driven dashboards using Django, PostgreSQL, and JavaScript, offering clients insightful visualizations and analytics tailored to their business needs.
+      - Designed and implemented database schemas, optimized queries, and ensured the security of user data through best practices in database management and encryption.
+      - MAYBE DELETE Collaborated with clients to gather requirements and provide solutions that were cost-effective and aligned with business goals, delivering projects on time.
+      - EXPAND Finetuned English LLM for BG usage.
+    button:
+      text: View portfolio
+      url: /portfolio/projects
+      icon: hero/arrow-down-tray
+  - role: Data Engineer Intern
+    org: NXP Semiconductors
+    start: 2023-08-15
+    end: 2024-06-30
+    summary: |
+      - Designed a monitoring system in Splunk to detect data gaps in an R&D data lake.
+      - Developed a Splunk dashboard to provide real-time monitoring and visibility into data streams and alert the responsible team when gaps or inconsistencies were detected.
+      - Utilized AWS Glue jobs and Lambda functions for data orchestration, integrating on-premise databases with the serverless AWS architecture of the data lake.
+      - Tested new features locally using Docker containers to validate functionality and dependencies before deploying to the AWS environment for further integration testing.
+      - Enhanced the scalability and performance of the data lake by addressing potential bottlenecks and recommending process optimizations for long-term reliability.
+      - Tracked development tasks using Jira and documented the end-to-end workﬂow in Conﬂuence to enable knowledge transfer and future improvements by the data lake management team.
+
+skills:
+  - name: Data Science Skills
+    items:
+      - label: Machine Learning
+        level: 4
+      - label: Pandas / Scikit-learn / TensorFlow
+        level: 4
+      - label: NLP / Social Network Analysis
+        level: 4
+      - label: Data Analytics & Visualization
+        level: 5
+  - name: Data Engineering Skills
+    items:
+      - label: Python / R / SQL
+        level: 5
+      - label: AWS / GCP
+        level: 4
+      - label: ETL Pipelines / Apache Spark
+        level: 4
+      - label: CI/CD / Docker
+        level: 3
+
+languages:
+  - name: English
+    level: 5
+    label: Proficient (C2)
+  - name: Bulgarian
+    level: 5
+    label: Native
+  - name: German / Dutch
+    level: 2
+    label: Intermediate
+
+#awards:
+  #- title: Best Paper Award
+  #  awarder: NeurIPS
+  #  date: "2022-12-01"
+  #  summary: Awarded for groundbreaking work on efficient training of large models.
+  #  icon: hero/trophy
