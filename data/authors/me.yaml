@@ -21,16 +21,16 @@ bio: |
 
 affiliations:
   - name: My projects
-    url: https://dianaspahieva.github.io/portfolio/projects/
+    url: https://dianaspahieva.github.io/projects/
 
 links:
   - icon: at-symbol
-    url: mailto:diana.nikolaeva.spahieva@gmail.com
+    url: mailto:spahieva@gmail.com
     label: E-mail Me
   #- icon: brands/x
   #  url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/DianaSpahieva?tab=repositories
+    url: https://github.com/DianaSpahieva
   - icon: brands/linkedin
     url: https://linkedin.com/in/diana-spahieva
 
