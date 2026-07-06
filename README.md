@@ -131,24 +131,6 @@ Developed an interactive Django application for exploring historical genealogica
 
 ---
 
-# 📂 Repository Structure - TO BE UPDATED
-
-```text
-content/
-├── authors/
-├── experience/
-├── projects/
-├── publications/
-├── skills/
-└── cv/
-
-assets/
-layouts/
-static/
-```
-
----
-
 # 🎯 Current Interests
 
 - Machine Learning
