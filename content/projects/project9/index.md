@@ -1,8 +1,9 @@
 ---
-title: Project 9 - 🌲 Forest Cover Classification Pipeline 🌲
+title: Project 9🌲 - Forest Cover Classification Pipeline | Machine Learning Project
 date: 2026-02-10 # to change
 links:
-  - type: site
+  - type: github
+    name:  👾 GitHub Repository
     url: https://github.com/DianaSpahieva/forest-cover-ml-pipeline
 tags:
   - Machine Learning

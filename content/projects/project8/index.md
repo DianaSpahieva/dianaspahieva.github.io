@@ -1,9 +1,10 @@
 ---
-title: Project 8 - Subscriber Cancellations Data Pipeline project
+title: Project 8🔕 - Subscriber Cancellations Data Pipeline | Data Engineering Project
 date: 2026-01-20 # to change
 links:
-  - type: site
-    url: https://github.com/DianaSpahieva/data-pipeline-subscriber-cancellations/tree/main
+  - type: github
+    name: 👾 GitHub Repository
+    url: https://github.com/DianaSpahieva/data-pipeline-subscriber-cancellations
 tags:
   - Data Pipeline
   - Bash Scripting
