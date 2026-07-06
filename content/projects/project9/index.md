@@ -1,5 +1,5 @@
 ---
-title: Project 9 - Forest Cover ML Pipeline
+title: Project 9 - 🌲 Forest Cover Classification Pipeline
 date: 2026-02-10 # to change
 links:
   - type: site
@@ -9,8 +9,6 @@ tags:
   - Classification
   - Python
 ---
-
-# 🌲 Forest Cover Classification Pipeline
 
 **End-to-End Machine Learning | Model Comparison | Cross-Validation | Feature Engineering**
 
