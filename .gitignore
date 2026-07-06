@@ -21,7 +21,7 @@ hugo_stats.json
 # Auto-generated JS config
 **/assets/jsconfig.json
 
-# Git, Container and VsCode files
+# Git and VsCode files
 .vscode/
 .devcontainer/
 
@@ -71,3 +71,8 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+
+# NEWLY ADDED
+package-lock.json
+yarn.lock
