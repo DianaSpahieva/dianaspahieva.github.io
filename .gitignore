@@ -22,7 +22,6 @@ hugo_stats.json
 **/assets/jsconfig.json
 
 # Git, Container and VsCode files
-.github/
 .vscode/
 .devcontainer/
 
