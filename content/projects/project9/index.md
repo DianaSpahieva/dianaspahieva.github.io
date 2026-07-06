@@ -1,5 +1,5 @@
 ---
-title: Project 9 - 🌲 Forest Cover Classification Pipeline
+title: Project 9 - 🌲 Forest Cover Classification Pipeline 🌲
 date: 2026-02-10 # to change
 links:
   - type: site
