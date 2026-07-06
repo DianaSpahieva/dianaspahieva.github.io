@@ -21,6 +21,11 @@ hugo_stats.json
 # Auto-generated JS config
 **/assets/jsconfig.json
 
+# Git, Container and VsCode files
+.github/
+.vscode/
+.devcontainer/
+
 # ============================================================================
 # Node.js & Package Managers
 # ============================================================================
