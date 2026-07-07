@@ -33,6 +33,56 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+
+
+  - block: markdown # NEWLY ADDED
+    content:
+      title: '🏷️ Areas of Expertise'
+      subtitle: ''
+      text: |-
+        Explore my work by topic tags:
+
+        <div class="flex flex-wrap gap-3 mt-4">
+
+        <a href="/tags/machine-learning/" class="px-4 py-2 rounded-full border border-green-700 bg-black/20 hover:bg-green-900/30 transition no-underline">
+        Machine Learning
+        </a>
+
+        <a href="/tags/data-engineering/" class="px-4 py-2 rounded-full border border-green-700 bg-black/20 hover:bg-green-900/30 transition no-underline">
+        Data Engineering
+        </a>
+
+        <a href="/tags/data-pipeline/" class="px-4 py-2 rounded-full border border-green-700 bg-black/20 hover:bg-green-900/30 transition no-underline">
+        Data Pipeline
+        </a>
+
+
+        <a href="/tags/data-visualization/" class="px-4 py-2 rounded-full border border-green-700 bg-black/20 hover:bg-green-900/30 transition no-underline">
+        Data Visualization
+        </a>
+
+        <a href="/tags/classification/" class="px-4 py-2 rounded-full border border-green-700 bg-black/20 hover:bg-green-900/30 transition no-underline">
+        Classification
+        </a>
+
+        <a href="/tags/large-language-models/" class="px-4 py-2 rounded-full border border-green-700 bg-black/20 hover:bg-green-900/30 transition no-underline">
+        Large Language Models
+        </a>
+
+        <a href="/tags/bash-scripting/" class="px-4 py-2 rounded-full border border-green-700 bg-black/20 hover:bg-green-900/30 transition no-underline">
+        Bash Scripting
+        </a>
+
+        <a href="/tags/python/" class="px-4 py-2 rounded-full border border-green-700 bg-black/20 hover:bg-green-900/30 transition no-underline">
+        Python
+        </a>
+
+        </div>
+    design:
+      columns: '1'
+      css_class: expertise-section
+
+
   - block: markdown
     content:
       title: '🚀 What I am Working On'
