@@ -48,11 +48,11 @@ sections:
         Machine Learning
         </a>
 
-        <a href="/tags/data-engineering/" class="px-4 py-2 rounded-full border border-green-700 bg-black/20 hover:bg-green-900/30 transition no-underline">
+        <a href="/tags/data-engineering/" class="px-4 py-2 rounded-full border border-[#28beac] bg-black/20 hover:bg-[#28beac]/30 transition no-underline">
         Data Engineering
         </a>
 
-        <a href="/tags/data-pipeline/" class="px-4 py-2 rounded-full border border-green-700 bg-black/20 hover:bg-green-900/30 transition no-underline">
+        <a href="/tags/data-pipeline/" class="px-4 py-2 rounded-full border border-green-700 bg-black/20 hover:bg-[#28beac]/30 transition no-underline">
         Data Pipeline
         </a>
 
