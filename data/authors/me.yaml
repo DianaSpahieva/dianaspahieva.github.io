@@ -12,7 +12,7 @@ postnominals:
   - PhD
   - MIEEE
 status:
-  icon: "☕️"
+  # icon: "☕️"
 role: Data Scientist & Engineer
 bio: |
   My main interests lie in the ﬁeld of Data Science with an emphasis on applied machine learning and software development,
@@ -34,14 +34,14 @@ links:
   - icon: brands/linkedin
     url: https://linkedin.com/in/diana-spahieva
 
-interests:
-  - Machine Learning
-  - Data Visualization
-  - Natural Language Processing (NLP)
-  - Cloud Computing
-  - Data Engineering & Data Pipelines
-  - Large Language Models
-  - Explainable AI & AI Ethics
+#interests:
+#  - Machine Learning
+#  - Data Visualization
+#  - Natural Language Processing (NLP)
+#  - Cloud Computing
+#  - Data Engineering & Data Pipelines
+#  - Large Language Models
+#  - Explainable AI & AI Ethics
 education:
   #- degree: PhD Computer Science
   #  institution: Stanford University
@@ -112,6 +112,14 @@ skills:
         level: 4
       - label: CI/CD / Docker
         level: 3
+
+
+  - name: Hobbies
+    items:
+      - label: Hiking and Yoga
+      - label: Live music
+      - label: Board Games and Dungeons & Dragons
+      - label: Efoil (Fliteboard)
 
 languages:
   - name: English
