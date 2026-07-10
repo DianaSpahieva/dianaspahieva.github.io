@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Diana Spahieva"
+    name: "Home (Diana Spahieva)"
     icon: "🐼"
     favicon: "/favicon.png"  # Try adding this line
     # Legal entity for copyright notices (defaults to name if not set)
