@@ -275,6 +275,40 @@ The transformer-based approach achieved **93.47% accuracy and macro F1**, improv
 
 Beyond model performance, the project also incorporates **PII protection directly into the prediction workflow**, making privacy considerations part of the classification pipeline rather than an afterthought.
 
+---
+
+## 🧠 Technical Skills Demonstrated
+
+- Natural Language Processing (NLP)
+- Multi-Class Text Classification
+- TF-IDF Feature Engineering
+- Neural Network Development
+- Transformer Fine-Tuning
+- Parameter-Efficient Fine-Tuning (LoRA)
+- Model Evaluation & Comparison
+- Per-Class Performance Analysis
+- PII Detection & Data Protection
+- Data Visualization
+- Python Machine Learning Development
+
+---
+
+## 📦 Technologies
+
+- Python
+- PyTorch
+- Scikit-learn
+- Hugging Face Transformers
+- RoBERTa
+- PEFT / LoRA
+- Pandas
+- NumPy
+- Matplotlib
+- WordCloud
+- Git
+
+---
+
 ### Analysis Walkthrough
 {{< notebook
     src="banking-classification-bert.ipynb"
