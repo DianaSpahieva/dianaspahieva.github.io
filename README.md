@@ -1,12 +1,12 @@
-# 🌐 Personal Portfolio – Data Science & Data Engineering 
+# 🌐 Personal Portfolio – Data Science & Data Engineering
 
 <h1 align="center">Building intelligent data solutions that turn complex data into actionable insights.</h1>
 
 <p align="center">
-  My personal portfolio showcasing my experience in <strong>Data Science</strong>,
-  <strong>Data Engineering</strong>, and <strong>Machine Learning</strong>.
-  Here you'll find my professional experience, technical projects, education,
-  and the technologies I'm passionate about.
+  A collection of my work across <strong>Data Science</strong>,
+  <strong>Data Engineering</strong>, <strong>Machine Learning</strong>,
+  and <strong>Data Analytics</strong>, including professional, academic,
+  and personal projects.
 </p>
 
 <p align="center">
@@ -21,207 +21,129 @@
 
 # 👋 About
 
-Hi! I'm **Diana**, a Data Scientist and Data Engineer and I enjoy solving problems with data.
+Hi! I'm **Diana**, a Data Scientist and Data Engineer who enjoys solving problems with data.
 
-Whether it's building machine learning models, developing cloud-based data pipelines, or creating interactive dashboards, I enjoy transforming complex data into meaningful insights that support better decisions.
+My work spans machine learning, data engineering, analytics, and AI applications. I enjoy working across the full data lifecycle — from exploring and preparing data to developing models, building data pipelines, integrating external data sources, and creating applications and visualizations that make results accessible.
 
-My interests lie at the intersection of:
-
-- 🤖 Machine Learning
-- ☁️ Data Engineering
-- 📊 Data Analytics
-- 🧠 Natural Language Processing
-- 🚀 Cloud Computing
-- 🔍 Explainable AI
-
-I'm particularly interested in applying data and AI to solve real-world problems with measurable business and societal impact.
+I'm particularly interested in applying data and AI to real-world problems with meaningful business and societal impact.
 
 ---
 
-# 🚀 What You'll Find
+# 🧠 Core Expertise
 
-This portfolio brings together my academic, professional, and personal work, including:
-
-- 💼 Professional experience
-- 📚 Education
-- 🚀 Featured projects
-- 🛠 Technical skills
-- 📄 Downloadable CV
-- 📬 Contact information
-
-Rather than being a static CV, this portfolio is continuously updated as I learn new technologies and complete new projects.
+* Machine Learning & Predictive Modeling
+* Deep Learning
+* Natural Language Processing & LLM Applications
+* Data Engineering & ETL Pipelines
+* Data Analytics & Visualization
+* Cloud Data Technologies
+* AI-Powered Application Development
 
 ---
 
-# 💻 Featured Projects
+# 🛠 Technical Skills
 
-## 📈 Identifying High-Potential Customers
+## Data Science & Machine Learning
 
-Developed an automated data collection pipeline using Python and Selenium to gather company insights from public sources. Built a Power BI dashboard and customer segmentation model to help prioritize sales opportunities.
+* Python
+* R
+* SQL
+* Pandas
+* NumPy
+* Scikit-learn
+* Exploratory Data Analysis
+* Data Cleaning & Preprocessing
+* Classification & Regression
+* Feature Engineering
+* Model Benchmarking & Selection
+* Cross-Validation
+* Hyperparameter Optimization
+* Model Evaluation
+* Class Imbalance Handling
+* Statistical Analysis
 
-**Technologies**
+## Deep Learning & AI
 
-- Python
-- Selenium
-- NLP
-- Power BI
+* PyTorch
+* TensorFlow
+* Hugging Face Transformers
+* Natural Language Processing
+* Transformer Fine-Tuning
+* Parameter-Efficient Fine-Tuning (LoRA)
+* Transfer Learning
+* Computer Vision
+* Convolutional Neural Networks
+* Vision Transformers
+* Large Language Models
+* LLM Agent Development
+* Retrieval-Augmented Generation (RAG)
+* Function Calling / Tool Calling
 
----
+## Data Engineering & Cloud
 
-## 🌿 Biodiversity Insights Network
+* ETL & Data Pipelines
+* Data Retrieval Pipelines
+* External API Integration
+* Structured Data Validation
+* Apache Spark
+* AWS
+* Google Cloud Platform
+* Docker
+* CI/CD
+* SQLite
+* PostgreSQL
+* MongoDB
 
-Built an end-to-end NLP pipeline that extracts topics and stakeholder relationships from biodiversity documents using BERT topic modeling and Social Network Analysis.
+## Data Analytics & Visualization
 
-**Technologies**
+* Power BI
+* Tableau
+* Matplotlib
+* Seaborn
+* Interactive Data Visualization
+* Dashboard Development
+* Geospatial Data Processing & Visualization
 
-- Python
-- NLP
-- BERT
-- Power BI
-- Social Network Analysis
+## Software & Development
 
----
-
-## 🏛 BHIC Data Visualization Tool
-
-Developed an interactive Django application for exploring historical genealogical datasets through a variety of visualizations including network graphs, treemaps, and population analytics.
-
-**Technologies**
-
-- Django
-- Python
-- JavaScript
-- Data Visualization
-
----
-
-# 🛠 Tech Stack
-
-## Data Science
-
-- Python
-- R
-- SQL
-- Machine Learning
-- TensorFlow
-- Scikit-learn
-- Pandas
-- NumPy
-- NLP
-- Power BI
-
-## Data Engineering
-
-- AWS
-- Google Cloud Platform
-- ETL Pipelines
-- Apache Spark
-- Docker
-- SQL
-- CI/CD
-
-## Software Development
-
-- Django
-- PostgreSQL
-- MongoDB
-- Git
-- Linux
-- JavaScript
+* Streamlit
+* Django
+* JavaScript
+* Git
+* Bash
+* Linux
+* Python Application Development
+* Automated Testing
 
 ---
 
-# 🎯 Current Interests
+# 🚀 What This Portfolio Showcases
 
-- Machine Learning
-- Large Language Models
-- Natural Language Processing
-- Cloud Computing
-- Data Engineering
-- Data Pipelines
-- Explainable AI
-- Data Visualization
+This portfolio brings together professional, academic, and personal work demonstrating experience with:
 
----
+* End-to-end machine learning workflows
+* Deep learning and transformer-based models
+* Natural language processing and LLM applications
+* Data engineering and ETL pipelines
+* Cloud-based data solutions
+* Data analytics and visualization
+* External API and data source integration
+* Interactive data applications
+* Model evaluation and comparative analysis
+* Real-world problem solving with data
 
-# 📈 Current Focus
+Project pages provide detailed breakdowns of the problems addressed, technical approaches, technologies used, results, and skills demonstrated.
 
-I'm currently expanding my knowledge in:
-
-- Modern Data Engineering
-- Cloud-native architectures
-- Large Language Models
-- Machine Learning in production
-- Scalable ETL pipelines
+👉 **Explore the portfolio:** [dianaspahieva.github.io](https://dianaspahieva.github.io/)
 
 ---
 
-# 🤝 Collaboration
+# 📫 Connect
 
-I'm always interested in discussing:
+🌍 **Portfolio:** [dianaspahieva.github.io](https://dianaspahieva.github.io/)
 
-- Data Science
-- Machine Learning
-- Data Engineering
-- AI
-- Cloud Technologies
-- Sustainability-focused projects
+💼 **LinkedIn:** [linkedin.com/in/diana-spahieva](https://linkedin.com/in/diana-spahieva)
 
-Feel free to connect if you'd like to collaborate or simply talk about data and technology.
+💻 **GitHub:** [github.com/DianaSpahieva](https://github.com/DianaSpahieva)
 
----
-
-# ❓ Frequently Asked Questions
-
-<details>
-<summary><b>Is this portfolio still being updated?</b></summary>
-
-Yes! This portfolio evolves alongside my career. I regularly add new projects, improve existing pages, and update my experience and skills.
-
-</details>
-
-<details>
-<summary><b>Can I see the source code for your projects?</b></summary>
-
-Many projects link directly to their GitHub repositories. Some professional and freelance work cannot be shared publicly due to confidentiality.
-
-</details>
-
-<details>
-<summary><b>Are these projects academic or professional?</b></summary>
-
-The portfolio contains a combination of university projects, professional experience, and freelance work to showcase a broad range of practical experience.
-
-</details>
-
-<details>
-<summary><b>What roles are you interested in?</b></summary>
-
-I'm interested in opportunities within Data Science, Data Engineering, Machine Learning, and Analytics Engineering where I can build scalable, data-driven solutions with real-world impact.
-
-</details>
-
-<details>
-<summary><b>Why build a personal portfolio?</b></summary>
-
-A portfolio allows me to present more than a traditional CV. It showcases how I approach problems, the technologies I use, and the projects I've built throughout my academic and professional journey.
-
-</details>
-
----
-
-# 📫 Connect  UPDATE THIS UPDATE THIS UPDATE THIS
-
-🌍 Portfolio: https://dianaspahieva.github.io/
-
-💼 LinkedIn: https://linkedin.com/in/diana-spahieva
-
-💻 GitHub: https://github.com/DianaSpahieva/dianaspahieva.github.io
-
-📧 Email: spahieva@gmail.com
-
----
-
-<p align="center">
-  Built with ❤️ and continuously improved as I learn and build new things.
-</p>
+📧 **Email:** [spahieva@gmail.com](mailto:spahieva@gmail.com)
