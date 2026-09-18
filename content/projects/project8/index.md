@@ -1,5 +1,5 @@
 ---
-title: "Project 8 - Subscriber Cancellations Data Pipeline | Data Engineering Project"
+title: "Project 8🔔 - Subscriber Cancellations Data Pipeline | Data Engineering Project"
 date: 2026-01-20 # to change
 
 links:
