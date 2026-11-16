@@ -18,6 +18,8 @@ tags:
 
 # Subscriber Cancellations Data Pipeline
 
+**Data Engineering | Python | Pandas | SQLite | ETL Pipeline | Data Quality | Incremental Processing | Bash Automation**
+
 ## 📌 Overview
 
 This project implements a semi-automated data engineering pipeline that transforms a messy, multi-table SQLite database into a clean, analytics-ready source of truth.
