@@ -23,7 +23,7 @@
 
 Hi! I'm **Diana**, a Data Scientist and Data Engineer who enjoys solving problems with data.
 
-My work spans machine learning, data engineering, analytics, and AI applications. I enjoy working across the full data lifecycle — from exploring and preparing data to developing models, building data pipelines, integrating external data sources, and creating applications and visualizations that make results accessible.
+My work spans machine learning, data engineering, analytics, and AI applications. I enjoy working across the full data lifecycle -- from exploring and preparing data to developing models, building data pipelines, integrating external data sources, and creating applications and visualizations that make results accessible.
 
 I'm particularly interested in applying data and AI to real-world problems with meaningful business and societal impact.
 
@@ -34,9 +34,11 @@ I'm particularly interested in applying data and AI to real-world problems with 
 * Machine Learning & Predictive Modeling
 * Deep Learning
 * Natural Language Processing & LLM Applications
-* Data Engineering & ETL Pipelines
+* Data Engineering & Lakehouse Architecture
+* Data Quality Engineering & Observability
 * Data Analytics & Visualization
 * Cloud Data Technologies
+* Workflow Orchestration & Automation
 * AI-Powered Application Development
 
 ---
@@ -79,20 +81,49 @@ I'm particularly interested in applying data and AI to real-world problems with 
 * Retrieval-Augmented Generation (RAG)
 * Function Calling / Tool Calling
 
-## Data Engineering & Cloud
+## Data Engineering & Cloud Platforms
 
-* ETL & Data Pipelines
+* Platforms
+* ETL / ELT Pipeline Development
 * Data Retrieval Pipelines
 * External API Integration
-* Structured Data Validation
 * Apache Spark
+* PySpark
+* Spark SQL
+* Databricks
+* Delta Lake
+* Unity Catalog
+* Lakehouse Architecture
+* Medallion Architecture (Bronze, Silver, Gold)
+* Databricks Auto Loader
+* Change Data Capture (CDC)
+* Databricks AUTO CDC
+* Slowly Changing Dimensions (SCD Type 1 & Type 2)
+* Incremental Data Ingestion & Processing
+* Analytical Data Modelling
+* Cloud Data Technologies
 * AWS
 * Google Cloud Platform
-* Docker
-* CI/CD
 * SQLite
 * PostgreSQL
 * MongoDB
+* SQLAlchemy
+* Docker
+
+## Data Quality, Observability & Orchestration
+
+* Data Quality Engineering
+* Data Quality Expectations & Validation
+* Record Quarantine & Error Handling
+* Referential Integrity Validation
+* Data Quality Monitoring & Observability
+* Pipeline Logging & Monitoring
+* Workflow Orchestration
+* Databricks Jobs & Workflows
+* CI/CD
+* GitHub Actions
+* Declarative Automation Bundles (DABs)
+* Multi-Environment Deployment
 
 ## Data Analytics & Visualization
 
@@ -104,16 +135,22 @@ I'm particularly interested in applying data and AI to real-world problems with 
 * Dashboard Development
 * Geospatial Data Processing & Visualization
 
-## Software & Development
+## Testing & Software Development
 
+* PyTest
+* Unit & Integration Testing
+* PySpark DataFrame Testing
+* Production Smoke Testing
+* Databricks SDK for Python
 * Streamlit
 * Django
 * JavaScript
+* Python Application Development
 * Git
 * Bash
 * Linux
-* Python Application Development
 * Automated Testing
+* Logging & Error Handling
 
 ---
 
@@ -124,8 +161,11 @@ This portfolio brings together professional, academic, and personal work demonst
 * End-to-end machine learning workflows
 * Deep learning and transformer-based models
 * Natural language processing and LLM applications
-* Data engineering and ETL pipelines
-* Cloud-based data solutions
+* Data engineering and ETL / ELT pipelines
+* Lakehouse architecture and cloud data platforms
+* Incremental data processing and Change Data Capture
+* Data quality engineering, monitoring and observability
+* Workflow orchestration and automated deployment
 * Data analytics and visualization
 * External API and data source integration
 * Interactive data applications
