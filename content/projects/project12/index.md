@@ -14,6 +14,8 @@ tags:
   - Natural Language Processing
   - Computer Vision
   - Transformers
+  - Data Science
+  - Artificial Intelligence
 ---
 
 # Healthcare Deep Learning with PyTorch

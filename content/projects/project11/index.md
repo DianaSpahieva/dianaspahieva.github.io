@@ -15,6 +15,8 @@ tags:
   - Transformers
   - LoRA
   - Python
+  - Data Science
+  - Artificial Intelligence
 ---
 
 # Banking Customer Intent Classification

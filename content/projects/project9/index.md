@@ -14,6 +14,7 @@ tags:
   - Classification
   - Python
   - Scikit-learn
+  - Data Science
 ---
 
 # Forest Cover Classification Pipeline

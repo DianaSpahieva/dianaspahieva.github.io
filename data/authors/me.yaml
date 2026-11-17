@@ -94,24 +94,52 @@ experience:
 skills:
   - name: Data Science Skills
     items:
-      - label: Machine Learning
+      - label: Machine Learning / Predictive Modelling
         level: 4
-      - label: Pandas / Scikit-learn / TensorFlow
+      - label: Pandas / NumPy / Scikit-learn
         level: 4
       - label: NLP / Social Network Analysis
         level: 4
       - label: Data Analytics & Visualization
         level: 5
+
+  - name: AI & Deep Learning Skills
+    items:
+      - label: PyTorch / TensorFlow / Hugging Face
+        level: 4
+      - label: Transformer Fine-Tuning / Transfer Learning
+        level: 4
+      - label: Computer Vision / CNNs / Vision Transformers
+        level: 4
+      - label: LLM Agents / RAG / Tool Calling
+        level: 3
+
   - name: Data Engineering Skills
     items:
       - label: Python / R / SQL
         level: 5
       - label: AWS / GCP
         level: 4
-      - label: ETL Pipelines / Apache Spark
+      - label: Databricks / Apache Spark / PySpark
         level: 4
-      - label: CI/CD / Docker
+      - label: Lakehouse / Delta Lake / Medallion Architecture
+        level: 4
+      - label: ETL / CDC / Incremental Processing
+        level: 4
+
+  - name: Data Quality & Delivery Skills
+    items:
+      - label: Data Quality / Validation / Quarantine
+        level: 4
+      - label: Monitoring / Observability / Referential Integrity
         level: 3
+      - label: Workflow Orchestration / Databricks Jobs
+        level: 4
+      - label: CI/CD / DABs
+        level: 4
+
+  - name: ─────────────────
+    items: []
 
 
   - name: Hobbies
