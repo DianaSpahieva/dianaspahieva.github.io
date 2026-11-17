@@ -44,10 +44,6 @@ sections:
 
         <div class="flex flex-wrap gap-3 mt-4">
 
-        <a href="/tags/machine-learning/" class="px-4 py-2 rounded-full border border-[#28beac] bg-black/20 hover:bg-[#28beac]/30 transition no-underline">
-        Machine Learning to delete
-        </a>
-
         <a href="/tags/data-science/" class="px-4 py-2 rounded-full border border-[#28beac] bg-black/20 hover:bg-[#28beac]/30 transition no-underline">
         Data Science
         </a>
