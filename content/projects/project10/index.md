@@ -1,7 +1,7 @@
 ---
-title: "Project 10🗺️ - Trip Planner AI Agent | AI Engineering Project"
+title: "🗺️ Trip Planner AI Agent | AI Engineering Project"
 
-date: 2026-02-11 # to change
+date: 2026-06-18 # to change
 
 links:
   - type: github

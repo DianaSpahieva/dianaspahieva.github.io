@@ -1,5 +1,5 @@
 ---
-title: "Project 13 👟 - ForwardStep – Cloud Data Lakehouse | Data Engineering Project"
+title: "👟 ForwardStep – Cloud Data Lakehouse | Data Engineering Project"
 date: 2026-11-10
 links:
   - type: github

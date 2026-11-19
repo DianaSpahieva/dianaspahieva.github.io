@@ -65,16 +65,16 @@ education:
 
 
 experience:
-  - role: Data Science Consultant
+  - role: Freelance Data Engineer & Data Scientist
     org: upwerk
     start: 2024-07-01
     end: Present
     summary: |
-      Leading
-      - Created data-driven dashboards using Django, PostgreSQL, and JavaScript, offering clients insightful visualizations and analytics tailored to their business needs.
-      - Designed and implemented database schemas, optimized queries, and ensured the security of user data through best practices in database management and encryption.
-      - MAYBE DELETE Collaborated with clients to gather requirements and provide solutions that were cost-effective and aligned with business goals, delivering projects on time.
-      - EXPAND Finetuned English LLM for BG usage.
+      - Designed, implemented and deployed a Databricks Lakehouse for an e-commerce retailer, integrating sales, customer, product, inventory and order data. Implemented Medallion Architecture, CDC-based ingestion, SCD Type 1/2 and incremental processing using PySpark, Delta Lake, Auto Loader and AUTO CDC. Established Unity Catalog governance, data quality validation, pipeline orchestration and CI/CD using GitHub Actions and Databricks Asset Bundles.
+      - Developed and deployed a customer-facing AI support chatbot for an e-commerce business using the OpenAI API and Retrieval-Augmented Generation (RAG). Implemented embedding-based retrieval with a vector database and integrated function calling with order management and internal business systems to retrieve order information and automate customer enquiries.
+      - Developed a business intelligence and predictive analytics solution for a software company, consolidating sales transactions, customer records, invoices, operational and geographic data using Python, SQL and Excel. Built Power BI dashboards, automated reporting workflows and traditional machine learning models for customer segmentation and repeat-purchase prediction, identifying purchasing patterns and customers likely to make repeat purchases.
+      - Developed a tool-using AI trip-planning agent for a travel business offering holiday packages worldwide. Integrated external geospatial data and travel-guide retrieval through structured tool calling, implementing point-of-interest validation, itinerary refinement and day-specific itinerary regeneration while preserving unchanged days. Added persistent feedback and interactive map visualisations to support itinerary exploration.
+      - Designed and deployed a Django-based records management application for a tourist association, replacing fragmented spreadsheets with a centralised system. Designed the SQL database schema, migrated existing records and implemented CRUD operations, search, filtering, data exports and trend visualisation across membership, historical, event, financial and tourism records.
     button:
       text: View portfolio
       url: /projects

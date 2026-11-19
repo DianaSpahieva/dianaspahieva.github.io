@@ -1,5 +1,5 @@
 ---
-title: "Project 12🩺 - Healthcare Deep Learning with PyTorch | Data Modelling Project"
+title: "🩺 Healthcare Deep Learning with PyTorch | Data Modelling Project"
 date: 2026-02-13
 
 links:

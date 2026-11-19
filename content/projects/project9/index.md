@@ -1,5 +1,5 @@
 ---
-title: "Project 9🌲 - Forest Cover Classification Pipeline | Data Modelling Project"
+title: "🌲 Forest Cover Classification Pipeline | Data Modelling Project"
 
 date: 2026-02-10 # to change
 

@@ -1,5 +1,5 @@
 ---
-title: "Project 11🏦 - Classifying Banking Intent from Customer Queries | Data Modelling Project"
+title: "🏦 Classifying Banking Intent from Customer Queries | Data Modelling Project"
 
 date: 2026-02-12
 
